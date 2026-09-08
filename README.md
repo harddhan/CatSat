@@ -1,4 +1,4 @@
-# catsat
+# catsat (in work)
 
 a small terrestrial satellite prototype inspired by cubesats.
 
